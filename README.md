@@ -18,7 +18,7 @@ car_price_prediction_project/
 │   ├── 5_IT24104332_feature_scaling.ipynb     # scale numerical features
 │   ├── 6_IT24104348_outlier_detection.ipynb   # detect and remove outliers
 │   ├── 7_preprocessing_pipeline.ipynb         # integrate all preprocessing steps
-│   └── 8_model_training.ipynb                 # train and evaluate the model
+│ 
 └── README.md
 ```
 
